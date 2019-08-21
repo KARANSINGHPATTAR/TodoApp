@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+}
+.deleteButton {
+  background-color: red;
+  border: 0px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
